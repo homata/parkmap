@@ -1,8 +1,8 @@
 {
-  "title": "Geolonia PWAマップ",
-  "description": "Google スプレッドシートを更新するだけでオリジナルの地図アプリを作成できる\n「Geolonia PWAマップ」",
+  "title": "みんなでつくる公園マップ(仮)",
+  "description": "神奈川県川崎市の公園口コミ情報 ver0.0.1 (開発中)",
   "form_url": "",
-  "logo_image_url": "https://geoloniamaps.github.io/pwamap/icon-pwamap.svg",
-  "background_image_url": "https://geoloniamaps.github.io/pwamap/geolonia_bgimage_1920_1080.png",
-  "primary_color": "#d2691e"
+  "logo_image_url": "https://homata.github.io/parkmap/logo.png",
+  "background_image_url": "",
+  "primary_color": ""
 }
