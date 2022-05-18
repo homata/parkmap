@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/parkmap/static/css/main.6790771c.chunk.css",
-    "main.js": "/parkmap/static/js/main.41e40782.chunk.js",
-    "main.js.map": "/parkmap/static/js/main.41e40782.chunk.js.map",
+    "main.js": "/parkmap/static/js/main.863afb69.chunk.js",
+    "main.js.map": "/parkmap/static/js/main.863afb69.chunk.js.map",
     "runtime-main.js": "/parkmap/static/js/runtime-main.f0c1a73b.js",
     "runtime-main.js.map": "/parkmap/static/js/runtime-main.f0c1a73b.js.map",
     "static/js/2.f7df98f9.chunk.js": "/parkmap/static/js/2.f7df98f9.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.f0c1a73b.js",
     "static/js/2.f7df98f9.chunk.js",
     "static/css/main.6790771c.chunk.css",
-    "static/js/main.41e40782.chunk.js"
+    "static/js/main.863afb69.chunk.js"
   ]
 }
